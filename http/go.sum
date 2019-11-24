@@ -1,1 +1,3 @@
 github.com/gganley/gomultimod v0.0.0-20191124173456-ed2baea3a32d h1:qInlxPLDO0Q4SSPtIhkJGljSiHTCSSw5Pt5LftGsDuM=
+github.com/gganley/gomultimod/log v0.0.1 h1:nrbUCHR0gTYvXBP8fjfR0x8atakNWEp/ZbhPpblklqU=
+github.com/gganley/gomultimod/log v0.0.1/go.mod h1:C6DjbZaN0j3VGk8hZZbK2P6qioQhqC/dqhkS9NNUvAc=
